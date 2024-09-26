@@ -32,7 +32,7 @@ Um projeto divertido para criar arte em pixel inspirada no clássico Mario Bros!
 
 ## 📸 Screenshots
 
-![Screenshot 1](screenshot1.png)
+![Imagem do WhatsApp de 2024-09-25 à(s) 22 37 19_2fbfbd67](https://github.com/user-attachments/assets/1a474f49-bac4-4f2a-b5b9-9e9d657a6717)
 
 ## 🎉 Contribuições
 
